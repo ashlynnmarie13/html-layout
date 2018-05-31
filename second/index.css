@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+}
+body {
+    background-color: black;
+}
+.main-wrapper {
+    width: 80%;
+    height: 1000px;
+    margin: 0px auto;
+    background-color: white;
+    border: 5px solid white;
+}
+.first-section {
+    border: 5px solid black;
+    width: 90%;
+    padding: 10px;
+    height: 230px;
+    margin: 15px auto;
+}
+
+.p-rectangle {
+    width: 50px;
+    height: 130px;
+    background-color: darkorchid;
+    margin-top: 70px;
+    display: inline-block;
+}
+
+.g-rectangle {
+    width: 400px;
+    height: 90%;
+    background-color: forestgreen;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.circle {
+    width: 200px;
+    height: 90%;
+    background-color: lightskyblue;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.second-section {
+    border: 5px solid black;
+    width: 90%;
+    padding: 10px;
+    height: 230px;
+    margin: 15px auto;
+    border-style: dotted;
+}
+.shadow-rectangle {
+    width: 90%;
+    height: 80%;
+    background-color: navajowhite;
+    margin: 20px auto;
+    box-shadow: 5px 10px 15px rgb(66, 66, 66);
+}
+.third-section {
+    width: 100%;
+    padding: 10px;
+    height: 230px;
+    margin-top: 20px;
+}
+.card { 
+    width: 50%;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    box-shadow: 2px 4px 5px rgb(66, 66, 66);
+}
+.text { 
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(47, 17, 95);
+    font-size: 40px;
+    text-align: center;
+    padding: 150px;
+    letter-spacing: 5px;
+    height: 400px;
+}
+

@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+}
+body {
+    background-color: black;
+    background-size: cover;
+}
+.bar {
+    width: 100%;
+    height: 130px;
+}
+.first-section {
+    background-color: rgb(167, 165, 165);
+}
+.box {
+  height: 80%;
+  width: 100px;
+  background-color: rgb(44, 146, 214);
+  display: inline-block;
+  margin: 10px 0px 0px 10px;
+}
+.second-section {
+ background-color: white;
+ height: 250px;
+}
+h1 {
+    padding-top: 65px;
+    text-align: center;
+    font-size: 1.5em;
+}
+.third-section {
+  background-color: rgb(38, 130, 206);
+}
+.fourth-section {
+  background-color: rgb(35, 185, 148);
+
+}
+.fifth-section {
+  background-color: rgb(170, 235, 144);
+}
+.sixth-section {
+  background-color: rgb(255, 217, 0);
+}
